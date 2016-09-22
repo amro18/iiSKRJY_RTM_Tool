@@ -2,6 +2,6 @@
 version : '1.3',
 downloadLink: 'https://github.com/amro18/iiSKRJY_RTM_Tool/raw/master/iiSKRJY%20RTM%20Tool%20Public.exe',
 Message : 'Tool Has Been Closed :)',
-ChangeLog : 'Added Hearevryone',
+ChangeLog : 'Added Anti-Quit (Delete Start)',
 isClose : 'true'
 }
