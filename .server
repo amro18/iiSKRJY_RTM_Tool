@@ -2,6 +2,6 @@
 version : '1.5',
 downloadLink: 'https://github.com/amro18/iiSKRJY_RTM_Tool/raw/master/iiSKRJY%20RTM%20Tool%20Public.exe',
 Message : 'Tool Has Been Closed :)',
-ChangeLog : 'Added Freeze Custom',
+ChangeLog : 'Added Clone Xuid',
 isClose : 'true'
 }
