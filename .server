@@ -1,7 +1,7 @@
 {
-version : '1.5',
+version : '2.0',
 downloadLink: 'https://github.com/amro18/iiSKRJY_RTM_Tool/raw/master/iiSKRJY%20RTM%20Tool%20Public.exe',
 Message : 'Tool Has Been Closed :)',
-ChangeLog : 'Added Clone Xuid',
+ChangeLog : '',
 isClose : 'true'
 }
