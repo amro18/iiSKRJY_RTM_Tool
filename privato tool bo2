@@ -1,6 +1,6 @@
 {
-version : '1.0',
-downloadLink: 'https://raw.githubusercontent.com/amro18/iiSKRJY_RTM_Tool/master/iiSKRJY%20RTM%20Tool%20Bo1%20Public.exe',
+version : '0.5',
+downloadLink: '',
 Message : 'Tool Has Been Closed :)',
 ChangeLog : '',
 isClose : 'true'
